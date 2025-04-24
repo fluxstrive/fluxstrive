@@ -1,5 +1,3 @@
-# Hi
-
 ## Pet To Human
 
 [Pet To Human](https://pettohuman.com) is an AI tool that transforms your pet's photo into a human portrait, preserving their unique personality and expression.
